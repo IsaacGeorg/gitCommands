@@ -1,0 +1,7 @@
+Git is a Version Control System (to control data).
+It can share and retrieve data between Remote Repository and Local Workspace Repository.
+
+People who are having this remote repository can collaborate as a team.
+
+People can collect or clone repository from remote and change or update data whwenever they want.
+
