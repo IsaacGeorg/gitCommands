@@ -1,0 +1,19 @@
+>git clone
+
+>git init
+
+>git push
+
+>git pull
+
+>git status
+
+>git add -A
+
+>git commit -m "commit message"
+
+>git config --list
+
+>git config --global user.name "Username"
+
+>git config --global user.email "UserEmail"
